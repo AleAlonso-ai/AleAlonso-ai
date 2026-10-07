@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Alessandra 👋
 
-<!--
-**AleAlonso-ai/AleAlonso-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've spent 30 years taking cloud and AI to market at AWS, Google Cloud, Confluent and Verizon Business. Now I'm building the tools too.
 
-Here are some ideas to get you started:
+**Founder, TouchOne AI**: helping small and mid-sized businesses adopt AI practically and responsibly.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔨 What I'm building
+- **SMB AI Readiness Scorecard**: a free assessment that tells a small business where it stands on AI and what to do first *(in progress)*
+- **AI Acceptable-Use Policy Generator**: a starter AI policy for small teams in minutes *(coming soon)*
+
+### 💡 Interests
+AI go-to-market · Responsible AI & ethics · Helping small businesses adopt new technology
+
+🌎 English · Português · Español  
+📍 Florida, USA  
+🔗 [LinkedIn](YOUR-LINKEDIN-URL) · [TouchOne AI](YOUR-TOUCHONE-URL)
