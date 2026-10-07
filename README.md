@@ -13,4 +13,4 @@ AI go-to-market · Responsible AI & ethics · Helping small businesses adopt new
 
 🌎 English · Português · Español  
 📍 Florida, USA  
-🔗 [LinkedIn](YOUR-LINKEDIN-URL) · [TouchOne AI](YOUR-TOUCHONE-URL)
+🔗 [LinkedIn](https://www.linkedin.com/in/alessandra-alonso-b60121/) · [TouchOne AI](touchone.ai)
