@@ -1,6 +1,6 @@
 # Hi, I'm Alessandra 👋
 
-I've spent 30 years taking cloud and AI to market at AWS, Google Cloud, Confluent and Verizon Business. Now I'm building the tools too.
+I've spent 30 years taking cloud and AI to market at AWS, Google Cloud, Confluent. Now I'm building the tools too.
 
 **Founder, TouchOne AI**: helping small and mid-sized businesses adopt AI practically and responsibly.
 
