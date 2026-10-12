@@ -6,7 +6,7 @@ I've spent 30 years taking cloud and AI to market at AWS, Google Cloud, Confluen
 
 ### 🔨 What I'm building
 - **SMB AI Readiness Scorecard**: a free assessment that tells a small business where it stands on AI and what to do first *(first version published)*
-- **AI Acceptable-Use Policy Generator**: a starter AI policy for small teams in minutes *(coming soon)*
+- **AI Acceptable-Use Policy Generator**: a starter AI policy for small teams in minutes *(first version published)*
 
 ### 💡 Interests
 AI go-to-market · Responsible AI & ethics · Helping small and medium size businesses adopt new technology
