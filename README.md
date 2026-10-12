@@ -9,7 +9,7 @@ I've spent 30 years taking cloud and AI to market at AWS, Google Cloud, Confluen
 - **AI Acceptable-Use Policy Generator**: a starter AI policy for small teams in minutes *(coming soon)*
 
 ### 💡 Interests
-AI go-to-market · Responsible AI & ethics · Helping small businesses adopt new technology
+AI go-to-market · Responsible AI & ethics · Helping small and medium size businesses adopt new technology
 
 🌎 English · Português · Español  
 📍 Florida, USA  
